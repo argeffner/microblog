@@ -3,7 +3,7 @@ import {useDispatch} from 'react-redux';
 import {useHistory} from 'react-router-dom';
 import PostForm from './PostForm';
 import { sendPostToAPI } from "../actions/posts";
-import './NewPost.css';
+import './styles/NewPost.css';
 
 function NewPost() {
  

@@ -1,0 +1,10 @@
+.display-post {
+    position: relative;
+}
+
+.display-right {
+    right: 0;
+    position: absolute;
+    text-align: right;
+    top: 15px;
+}

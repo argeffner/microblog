@@ -14,6 +14,7 @@ import {
   removeCommentFromAPI,
   sendVoteToAPI
 } from "../actions/posts";
+import './styles/Post.css';
 
 function Post(props) {
     const [editing, setEditing] = useState(false);
